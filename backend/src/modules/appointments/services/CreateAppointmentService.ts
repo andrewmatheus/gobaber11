@@ -25,7 +25,6 @@ class CreateAppointmentService {
     user_id,
   }: IRequest): Promise<Appointment> {
     const appointmentDate = startOfHour(date);
-    console.log(appointmentDate, 'Estou aqui 0');
 
     const findAppointmentInSameDate = await this.appointmentsRepository.findByDate(
       appointmentDate,
