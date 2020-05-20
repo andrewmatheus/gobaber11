@@ -12,6 +12,7 @@
       "@modules/*": ["modules/*"],
       "@shared/*": ["shared/*"]
     },
+    "allowJs": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
