@@ -7,6 +7,7 @@ temp/
 comentarios.md
 coverage
 ormconfig.json
+.env.test
 
 tmp/*
 !tmp/.gitkeep
