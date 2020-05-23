@@ -17,5 +17,10 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "forceConsistentCasingInFileNames": true
-  }
+  },
+  "exclude": [
+    "jest.config.js",
+    "prettier.config.js",
+    "block-navigation.js"
+  ]
 }
