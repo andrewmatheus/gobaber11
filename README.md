@@ -25,8 +25,9 @@
    
 <p align="center">
   <a href="#notebook-About-this-Project">About this Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#rocket-Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-Built With">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#mailbox-Contacts">Contacts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-license">License</a>
 </p>   
    
@@ -125,13 +126,13 @@ $ yarn test
 
 > video demo: [GoBaberDemo](https://www.youtube.com/watch?v=XT6nbXlie7g)
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/andrewmatheus/gobaber11/blob/master/LICENSE) for more information.
-  
-## Contacts
+## :mailbox: Contacts
 
 Email: andrewmatheus@gmail.com
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/andrew-cabral-developer/).
 
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/andrewmatheus/gobaber11/blob/master/LICENSE) for more information.
+  
 ------------------
