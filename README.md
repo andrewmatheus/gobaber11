@@ -27,7 +27,7 @@
   <a href="#notebook-About-this-Project">About this Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-Built-With">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##art-imagevideo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##art-Demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-Contacts">Contacts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-license">License</a>
 </p>   
@@ -109,19 +109,20 @@ $ yarn test
 - [Prettier](https://prettier.io/) - Code Formatter
 - [tsyringe](https://github.com/microsoft/tsyringe)
 - [Date-FNS](https://date-fns.org/)
-- [nodejs]: https://nodejs.org/
+- [nodejs](https://nodejs.org/)
 - [React](https://pt-br.reactjs.org/)
 - [React-Native](https://facebook.github.io/react-native/)
 - [React Navigation](https://reactnavigation.org/)
 - [styled-components](https://www.styled-components.com/)
 - [Yup](https://github.com/jquense/yup)
 - [typescript](https://www.typescriptlang.org/)
+- [yarn](https://yarnpkg.com/)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
-- [yarn]: https://yarnpkg.com/
+
 
 ...
   
-## :art: Image/video
+## :art: Demo
 
 ![GoBarberWeb](https://github.com/andrewmatheus/gobaber11/blob/master/GoBarberWeb.jpg)
 
